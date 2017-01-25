@@ -1,0 +1,4 @@
+﻿  MovingImage.cpp
+c:\users\itadev1\documents\visual studio 2015\projects\projecteve\projecteve\movingimage.cpp(10): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ProjectEve.vcxproj -> C:\Users\itaDev1\documents\visual studio 2015\Projects\ProjectEve\Debug\ProjectEve.exe
+  ProjectEve.vcxproj -> C:\Users\itaDev1\documents\visual studio 2015\Projects\ProjectEve\Debug\ProjectEve.pdb (Partial PDB)
